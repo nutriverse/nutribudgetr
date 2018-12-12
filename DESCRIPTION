@@ -1,0 +1,18 @@
+Package: nutribudget
+Type: Package
+Title: An Implementation of SPRING's Nutrition Budget Analysis Tool in R
+Version: 0.1.0.9000
+Authors@R: person("Ernest", "Guevarra", comment = c(ORCID = "0000-0002-4887-4415"), 
+                  email = "ernest@guevarra.io", role = c("aut", "cre"))
+Description: Despite recognition that creating and sustaining financial support 
+    for nutrition is critical, nutrition advocates lack access to accurate and 
+    timely financial data. In response to this challenge, the USAID-funded 
+    Strengthening Partnerships, Results, and Innovations in Nutrition Globally 
+    (SPRING) project has developed a tool that will help nutrition stakeholders 
+    learn where the funding is, understand existing resource gaps, and advocate 
+    for adequate budgets. This package is an implementation of SPRING's budget 
+    analysis tool in R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
