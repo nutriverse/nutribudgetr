@@ -1,4 +1,4 @@
-Package: nutribudget
+Package: nutribudgetr
 Type: Package
 Title: An Implementation of SPRING's Nutrition Budget Analysis Tool in R
 Version: 0.1.0.9000
